@@ -1,0 +1,19 @@
+.carrito{
+    margin-top: 0%;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+    position: relative;
+}
+
+span    {
+    color: rgb(27, 25, 25);
+    background-color:rgba(222, 226, 228, 0.596);
+    font-size: large;
+    font-weight: 500;
+    position: absolute;
+
+    
+}
