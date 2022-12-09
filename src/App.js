@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './components/navegacion/Navbar'
+import Navbar from './components/navbar/Navbar'
 import Inicio from './components/pages/Inicio'
 import Nosotros from './components/pages/Nosotros'
 import Productos from './components/pages/Productos'
